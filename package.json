@@ -1,8 +1,8 @@
 {
-  "name": "package-1",
-  "version": "1.0.0",
+  "name": "priya-package-1",
+  "version": "1.0.2",
   "description": "A cool package for demonstration purposes",
-  "main": "controllers/controller1.js",
+  "main": "index.js",
   "dependencies": {
     "express": "4.13.4"
   },
